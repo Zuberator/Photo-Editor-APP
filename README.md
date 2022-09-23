@@ -12,4 +12,4 @@ Functions:
 - Blur
 - Batch edit
 
-LIVE: https://zuberator.github.io/Photo-Editor-APP/
+LIVE: https://zuberator.github.io/Photo-Editor-App/
