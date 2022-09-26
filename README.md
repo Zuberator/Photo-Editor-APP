@@ -1,4 +1,4 @@
-# Photo-Editor-APP
+# Photo-Editor-App
 Simple photo edit app, made in HTML, SCSS and JS.
 
 Functions:
